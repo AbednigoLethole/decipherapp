@@ -33,4 +33,5 @@ Display the decrypted results in the app's user interface.
 
 6.  You can view the decrypted solutions labeled as "Solution 1," "Solution 2," and "Solution 3" in the app's interface and terminal.
 
+Tip : When you clear the crypted text , the solution shows on the app.
 
