@@ -17,7 +17,7 @@ Follow these steps to run the Caesar Cipher Decryptor App on your local machine:
    ```bash
    git clone https://github.com/AbednigoLethole/decipherapp.git
 
-2. Open the Caesar Cipher Decryptor App on your device or emulator(by running main.dart file found in lib folder). 
+2. Open the Caesar Cipher Decryptor App on your device or emulator(by running main.dart file found in lib folder).APK files can be found in folder: build/app/outputs/flutter-apk
 
 
 3. Input the ciphertext that you want to decrypt into the provided TextField.
@@ -31,4 +31,6 @@ Calculate the letter distances from 'E,' 'T,' and 'A' to the most frequent chara
 Decrypt the ciphertext using these distances for each key (E, T, and A).
 Display the decrypted results in the app's user interface.
 
-6.  You can view the decrypted solutions labeled as "Solution 1," "Solution 2," and "Solution 3" in the app's interface.
+6.  You can view the decrypted solutions labeled as "Solution 1," "Solution 2," and "Solution 3" in the app's interface and terminal.
+
+
